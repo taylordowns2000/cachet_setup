@@ -13,3 +13,6 @@ sudo apt-get update
 sudo apt-get install git curl apache2 php5 libapache2-mod-php5 php5-gd php5-apcu php5-mcrypt php5-sqlite php5-cli
 
 Settings still not being persisted. Why!?
+
+// Get 500, run
+chmod -R 777 storage
