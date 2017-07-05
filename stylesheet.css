@@ -1,2 +1,4 @@
 body.status-page p, body.status-page strong { color: black !important; }
 body.status-page .about-app p { color: #eeeeee !important; }
+body.status-page .help-icon { color: black !important; }
+body.status-page footer { border: none !important; }
